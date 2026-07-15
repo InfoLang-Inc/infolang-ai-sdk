@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "InfoLang semantic memory for the Vercel AI SDK — a LanguageModelMiddleware that recalls context before generation and remembers the exchange after, plus memory tools.",
   "license": "Apache-2.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "InfoLang <engineering@infolang.ai>",
   "homepage": "https://infolang.ai",
   "repository": {
